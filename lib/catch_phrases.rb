@@ -21,3 +21,11 @@ def link
   ham = "It's Dangerous To Go Alone! Take This."
   puts ham
 end
+
+def any_phrase(phrase)
+  sentence = phrase
+  puts sentence
+end
+  
+  
+  
