@@ -16,3 +16,8 @@ def toadstool
   
   
 end
+
+def link
+  ham = "It's Dangerous To Go Alone! Take This."
+  puts ham
+end
